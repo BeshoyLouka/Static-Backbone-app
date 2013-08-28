@@ -20,3 +20,4 @@ $ heroku config:set BUILDPACK_URL=https://github.com/heroku/heroku-buildpack-php
 - "jquery": "~1.9.1"
 - "modernizr": "~2.6.2"
 - "bootstrap": "~3.0.0"
+- "font-awesome": "~3.2.1"
