@@ -21,3 +21,9 @@ $ heroku config:set BUILDPACK_URL=https://github.com/heroku/heroku-buildpack-php
 - "modernizr": "~2.6.2"
 - "bootstrap": "~3.0.0"
 - "font-awesome": "~3.2.1"
+
+### Misc
+- compile less files through `recess` by running `recess ./bootstrap.less --compile > ../main.css`
+
+### TODO
+- add `recess-grunt` plugin to take care to compiling bootstrap and less files
