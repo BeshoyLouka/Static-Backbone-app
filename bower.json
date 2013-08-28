@@ -1,0 +1,14 @@
+{
+  "name": "StaticApp",
+  "version": "0.0.0",
+  "dependencies": {
+    "requirejs": "~2.1.5",
+    "requirejs-text": "~2.0.5",
+    "backbone-amd": "~1.0.0",
+    "underscore-amd": "~1.4.4",
+    "jquery": "~1.9.1",
+    "modernizr": "~2.6.2",
+    "bootstrap": "~3.0.0"
+  },
+  "devDependencies": {}
+}
