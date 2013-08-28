@@ -1,7 +1,7 @@
 Static Backbone app
 ===================
 
-> based on "webapp-generator"
+> based on "generator-webapp"
 
 ### setup
 ```
